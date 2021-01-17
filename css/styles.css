@@ -1,6 +1,6 @@
 /*******************TAG SELECTORS*******************/
 body {
-  background-color: #e7e7de;
+  background-color: #fff;
   font-family: tahoma, sans-serif;
   margin: 0;
   text-align: center;
@@ -97,7 +97,7 @@ li {
   height: 20%;
   width: 20%;
   margin-left: 7%;
-  color: white;
+  color: #e7e7de;
 }
 
 .container-navigation-test {
