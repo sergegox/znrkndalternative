@@ -11,6 +11,11 @@ li {
 }
 
 /*******************CLASS SELECTORS*******************/
+@media (min-width: 990px) {
+  .navbar-collapse {
+  margin-right: 13%;
+  }
+}
 
 /*Header*/
 .color-navbar {
@@ -245,7 +250,6 @@ li {
 /*Bottom-Container*/
 .bottom-container {
   background-color: #00303f;
-  margin-top: 1%;
   padding-top: 0.5%;
   padding-bottom: 0.5%;
 }
