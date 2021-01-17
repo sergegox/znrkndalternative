@@ -38,6 +38,34 @@ li {
 }
 }
 
+.home-image {
+  max-width: 100%;
+  display: inline-block;
+  height: 50%;
+  background-size: cover;
+  margin: 2% auto 2% auto;
+}
+
+@media (min-width: 992px) and (max-width: 1279px){
+.home-image {
+  margin-top: 12%;
+  margin-left: 5%
+}
+}
+
+/* @media (max-width: 1239px) { */
+
+/* } */
+
+/* @media (min-width: 1591px){
+.home-image {
+  max-width: 100%;
+  display: inline-block;
+  height: 50%;
+  background-size: cover;
+  margin: 2% auto 2% auto;
+}
+} */
 
 .h1-header {
   font-size: 2.9rem;
@@ -78,13 +106,7 @@ li {
   margin-left: 50%;
 }
 
-.home-image {
-  max-width: 100%;
-  display: inline-block;
-  height: 50%;
-  background-size: cover;
-  margin: 2% auto 2% auto;
-}
+
 
 .navigation-container-top {
   text-align: right;
