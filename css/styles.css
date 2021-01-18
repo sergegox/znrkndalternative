@@ -55,7 +55,7 @@ li {
 
 .h1-header {
   font-size: 2.9rem;
-  font-weight: 1000;
+  font-weight: bold;
   text-align: center;
   padding-top: 3%;
   padding-bottom: 3%;
@@ -64,7 +64,7 @@ li {
 
 .h2-header {
   font-size: 2rem;
-  font-weight: 1000;
+  font-weight: bold;
   text-align: center;
   padding-top: 3%;
   padding-bottom: 3%;
@@ -133,7 +133,7 @@ li {
 
 .h2-header-2 {
   font-size: 2rem;
-  font-weight: 1000;
+  font-weight: bold;
   text-align: center;
   padding-top: 3%;
   padding-bottom: 3%;
